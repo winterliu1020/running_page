@@ -1,1 +1,1 @@
-![](./assets/github_2021.svg)
+![](./assets/github.svg)
