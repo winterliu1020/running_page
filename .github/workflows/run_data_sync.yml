@@ -22,8 +22,8 @@ env:
   RUN_TYPE: keep # support strava/nike/garmin/garmin_cn/keep/only_gpx/nike_to_strava, Please change the 'pass' it to your own
   ATHLETE: liuwentao
   TITLE: liuwentao Running
-  TITLE_GRID: Over 5km Runs
-  GITHUB_NAME: liuwentao
+  TITLE_GRID: Over 2km Runs
+  GITHUB_NAME: winterliu1020
   GITHUB_EMAIL: wentaolc1020@gmail.com
 
 jobs:
